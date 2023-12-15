@@ -5,6 +5,7 @@
 
 'git config --local --list
 
+<<<<<<< HEAD
 ### LIst all global configurations
 
 'git config --global --list'
