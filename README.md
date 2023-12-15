@@ -42,3 +42,5 @@
 - Create and checkout a new branch with an appropriate name
 - With the help of markdown syntax, create a beautiful documentation of what you just learn.
 - Repeat the last 8 steps in Part 3
+
+----
