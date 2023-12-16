@@ -1,2 +1,4 @@
 # Hello world!
-am fine thank you
+
+## Git commands
+## List all local configurations
